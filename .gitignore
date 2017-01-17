@@ -58,3 +58,5 @@ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/RandomStuff-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF
 *.prefs
 .settings/.jsdtscope
+*.classpath
+.project
