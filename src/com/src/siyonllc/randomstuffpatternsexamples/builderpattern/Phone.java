@@ -6,6 +6,7 @@ package com.src.siyonllc.randomstuffpatternsexamples.builderpattern;
 /**
  * @author Rakesh Rai
  *
+ * Builder Pattern : Creational Design Pattern
  */
 public class Phone {
 
