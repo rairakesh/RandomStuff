@@ -60,3 +60,4 @@ target/RandomStuff-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF
 .settings/.jsdtscope
 *.classpath
 .project
+/target/
