@@ -1,4 +1,4 @@
-package com.src.siyonllc.randomexample;
+package com.test.src.siyonllc.randomexample;
 
 import static org.junit.Assert.*;
 
@@ -7,6 +7,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.src.siyonllc.randomexample.FizzBuzz;
 
 public class FizzBuzzTest {
 
